@@ -1,0 +1,29 @@
+# Agent Framework
+crewai
+langchain
+langchain-openai
+langchain-community
+
+# Async & Communication
+redis
+aioredis
+asyncio
+
+# Database
+psycopg2-binary
+sqlalchemy
+alembic
+
+# ML Libraries
+scikit-learn
+mlflow
+pandas
+numpy
+
+# Utilities
+pydantic
+python-dotenv
+loguru
+pyyaml
+httpx
+
